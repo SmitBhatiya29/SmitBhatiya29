@@ -14,8 +14,8 @@
 
 <div align="center">
   <!-- Custom Stats Card with Animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PadhiyarHarsh01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72EF7&icon_color=F72EF7&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PadhiyarHarsh01&theme=radical&hide_border=true&background=0D1117&ring=F72EF7&fire=FF2E2E&currStreakLabel=F72EF7" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SmitBhatiya29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72EF7&icon_color=F72EF7&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmitBhatiya29&theme=radical&hide_border=true&background=0D1117&ring=F72EF7&fire=FF2E2E&currStreakLabel=F72EF7" height="165"/>
 </div>
 
 <!-- Matrix-style Code Rain Animation -->
@@ -107,7 +107,7 @@
 <!-- Profile Views Counter with Custom Styling -->
 <h2 align="center">👀 Total Profile Views Including You 😁</h2>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PadhiyarHarsh01/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/SmitBhatiya29/count.svg" alt="Visitor Count" />
 </div>
 
 <!-- Footer Wave -->
